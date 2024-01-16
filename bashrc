@@ -117,7 +117,7 @@ if ! shopt -oq posix; then
 fi
 
 
-export GOOGLE_APPLICATION_CREDENTIALS=$HOME/Downloads/tf_sa_iaac_datalake_dev.json
+export GOOGLE_APPLICATION_CREDENTIALS=$HOME
 
 
 
